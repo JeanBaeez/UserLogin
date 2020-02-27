@@ -1,0 +1,8 @@
+C:\Users\Jean Baez\Desktop\Projects\.NET\UserLogin\DataLibrary\bin\Debug\DataLibrary.dll
+C:\Users\Jean Baez\Desktop\Projects\.NET\UserLogin\DataLibrary\bin\Debug\DataLibrary.pdb
+C:\Users\Jean Baez\Desktop\Projects\.NET\UserLogin\DataLibrary\bin\Debug\Dapper.dll
+C:\Users\Jean Baez\Desktop\Projects\.NET\UserLogin\DataLibrary\bin\Debug\Dapper.xml
+C:\Users\Jean Baez\Desktop\Projects\.NET\UserLogin\DataLibrary\obj\Debug\DataLibrary.csprojAssemblyReference.cache
+C:\Users\Jean Baez\Desktop\Projects\.NET\UserLogin\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
+C:\Users\Jean Baez\Desktop\Projects\.NET\UserLogin\DataLibrary\obj\Debug\DataLibrary.dll
+C:\Users\Jean Baez\Desktop\Projects\.NET\UserLogin\DataLibrary\obj\Debug\DataLibrary.pdb

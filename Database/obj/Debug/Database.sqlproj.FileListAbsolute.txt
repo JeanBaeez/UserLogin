@@ -1,0 +1,6 @@
+C:\Users\Jean Baez\Desktop\Projects\.NET\UserLogin\Database\bin\Debug\Database.dacpac
+C:\Users\Jean Baez\Desktop\Projects\.NET\UserLogin\Database\bin\Debug\Database.dll
+C:\Users\Jean Baez\Desktop\Projects\.NET\UserLogin\Database\bin\Debug\Database.pdb
+C:\Users\Jean Baez\Desktop\Projects\.NET\UserLogin\Database\obj\Debug\Database.sqlprojAssemblyReference.cache
+C:\Users\Jean Baez\Desktop\Projects\.NET\UserLogin\Database\obj\Debug\Database.dll
+C:\Users\Jean Baez\Desktop\Projects\.NET\UserLogin\Database\obj\Debug\Database.pdb

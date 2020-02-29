@@ -26,8 +26,15 @@ namespace DataLibrary.BussinesLogic
 
         public static List<EmployeeModel> LoadEmployees()
         {
-            string sql = "select EmployeeId,FirstName,LasName,Email from dbo.Employee";
+            string sql = "select EmployeeId,FirstName,LastName,Email from dbo.Employee";
             return SqlDataAccess.LoadData<EmployeeModel>(sql);
+        }
+
+        public static int UserSearch(string username,string password)
+        {
+            string sql = "select * from Credentials AS c where c.Username ='" + (username) + "' and c.Password = '" + (password) + "'";
+           
+            return SqlDataAccess.UserSearch(sql);
         }
     }
 }

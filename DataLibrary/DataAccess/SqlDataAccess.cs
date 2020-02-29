@@ -13,7 +13,7 @@ namespace DataLibrary.DataAccess
     public static class SqlDataAccess
     {
         //string page = "https://www.youtube.com/watch?v=bIiEv__QNxw";
-        public static string GetConnectionString(string connectionName= "DataBase")
+        public static string GetConnectionString(string connectionName = "DataBase")
         {
             return ConfigurationManager.ConnectionStrings[connectionName].ConnectionString;
         }
@@ -21,7 +21,7 @@ namespace DataLibrary.DataAccess
         public static List<T> LoadData<T>(string sql)
         {
             //TODO: Load the info into a table
-            using(IDbConnection cnn = new SqlConnection(GetConnectionString()))
+            using (IDbConnection cnn = new SqlConnection(GetConnectionString()))
             {
                 return cnn.Query<T>(sql).ToList();
             }
@@ -34,5 +34,15 @@ namespace DataLibrary.DataAccess
                 return cnn.Execute(sql, data);
             }
         }
+
+        public static int UserSearch(string sql)
+        {
+            using (IDbConnection cnn = new SqlConnection(GetConnectionString()))
+            {
+
+                return (int)cnn.ExecuteScalar<int>(sql);
+
             }
+        }
+    }
 }

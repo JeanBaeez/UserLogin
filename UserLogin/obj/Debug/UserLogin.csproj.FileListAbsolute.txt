@@ -48,6 +48,7 @@ C:\Users\Jean Baez\Desktop\Projects\.NET\UserLogin\UserLogin\bin\roslyn\vbc.rsp
 C:\Users\Jean Baez\Desktop\Projects\.NET\UserLogin\UserLogin\bin\roslyn\VBCSCompiler.exe
 C:\Users\Jean Baez\Desktop\Projects\.NET\UserLogin\UserLogin\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\Jean Baez\Desktop\Projects\.NET\UserLogin\UserLogin\bin\Antlr3.Runtime.dll
+C:\Users\Jean Baez\Desktop\Projects\.NET\UserLogin\UserLogin\bin\DataLibrary.dll
 C:\Users\Jean Baez\Desktop\Projects\.NET\UserLogin\UserLogin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\Jean Baez\Desktop\Projects\.NET\UserLogin\UserLogin\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\Jean Baez\Desktop\Projects\.NET\UserLogin\UserLogin\bin\Newtonsoft.Json.dll
@@ -59,6 +60,8 @@ C:\Users\Jean Baez\Desktop\Projects\.NET\UserLogin\UserLogin\bin\System.Web.WebP
 C:\Users\Jean Baez\Desktop\Projects\.NET\UserLogin\UserLogin\bin\System.Web.WebPages.dll
 C:\Users\Jean Baez\Desktop\Projects\.NET\UserLogin\UserLogin\bin\System.Web.WebPages.Razor.dll
 C:\Users\Jean Baez\Desktop\Projects\.NET\UserLogin\UserLogin\bin\WebGrease.dll
+C:\Users\Jean Baez\Desktop\Projects\.NET\UserLogin\UserLogin\bin\Dapper.dll
+C:\Users\Jean Baez\Desktop\Projects\.NET\UserLogin\UserLogin\bin\DataLibrary.pdb
 C:\Users\Jean Baez\Desktop\Projects\.NET\UserLogin\UserLogin\bin\System.Web.Helpers.xml
 C:\Users\Jean Baez\Desktop\Projects\.NET\UserLogin\UserLogin\bin\System.Web.Mvc.xml
 C:\Users\Jean Baez\Desktop\Projects\.NET\UserLogin\UserLogin\bin\System.Web.Optimization.xml
@@ -69,11 +72,8 @@ C:\Users\Jean Baez\Desktop\Projects\.NET\UserLogin\UserLogin\bin\System.Web.WebP
 C:\Users\Jean Baez\Desktop\Projects\.NET\UserLogin\UserLogin\bin\Newtonsoft.Json.xml
 C:\Users\Jean Baez\Desktop\Projects\.NET\UserLogin\UserLogin\bin\Antlr3.Runtime.pdb
 C:\Users\Jean Baez\Desktop\Projects\.NET\UserLogin\UserLogin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jean Baez\Desktop\Projects\.NET\UserLogin\UserLogin\bin\Dapper.xml
 C:\Users\Jean Baez\Desktop\Projects\.NET\UserLogin\UserLogin\obj\Debug\UserLogin.csprojAssemblyReference.cache
 C:\Users\Jean Baez\Desktop\Projects\.NET\UserLogin\UserLogin\obj\Debug\UserLogin.csproj.CopyComplete
 C:\Users\Jean Baez\Desktop\Projects\.NET\UserLogin\UserLogin\obj\Debug\UserLogin.dll
 C:\Users\Jean Baez\Desktop\Projects\.NET\UserLogin\UserLogin\obj\Debug\UserLogin.pdb
-C:\Users\Jean Baez\Desktop\Projects\.NET\UserLogin\UserLogin\bin\DataLibrary.dll
-C:\Users\Jean Baez\Desktop\Projects\.NET\UserLogin\UserLogin\bin\Dapper.dll
-C:\Users\Jean Baez\Desktop\Projects\.NET\UserLogin\UserLogin\bin\DataLibrary.pdb
-C:\Users\Jean Baez\Desktop\Projects\.NET\UserLogin\UserLogin\bin\Dapper.xml

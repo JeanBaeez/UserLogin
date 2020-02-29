@@ -43,10 +43,29 @@ namespace UserLogin.Controllers
             if (ModelState.IsValid)
             {
                int records = CreateEmployee(model.EmployeeId, model.FirstName, model.LastName, model.Email);
-                return RedirectToAction("Index");
+                return RedirectToAction("ViewEmployee");
             }
 
             return View();
         }
+
+
+        public ActionResult ViewEmployee()
+        {
+            ViewBag.Message = " Employee List";
+            var data = LoadEmployees();
+            return View(data);
+        }
+
+
+
+
+
+        public ActionResult Details(int id)
+        {
+            return View();
+        }
+
+
     }
 }
